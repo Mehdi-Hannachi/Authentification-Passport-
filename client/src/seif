@@ -1,0 +1,15 @@
+
+
+// useState   ====> 
+
+
+// useDispatch ====>  dispatch actions
+//useSelector ====> const stateName = useSelector(state = state.stateName)
+
+
+//useEffect ( ComponentDidMount , ComponentsDidUpdate )
+
+  ComponentDidMount => ki tebda fama 7aja matest7a9ech 7ata event 
+  [dependecies]
+
+
